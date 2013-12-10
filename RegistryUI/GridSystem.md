@@ -3,4 +3,6 @@ The grid system is composed of 8 flexible columns with a gutter between columns 
 ##Grid Sizes
 ####Size 1 of 1
 
-<div class="docs size1of1">1 of 1</div>
+<div class="docs size1of1">
+  <p>1 of 1</p>
+</div>
