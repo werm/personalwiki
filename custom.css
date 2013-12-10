@@ -1,11 +1,43 @@
-.demo p {
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+.docs p {
   background: #46bcd2;
   padding: 24px 0;
   max-width: inherit;
   margin-top: 1.2em;
   font-weight: bold;
   color: #fff;
+  text-align: center;
 }
+
+.unit {
+  overflow: hidden;
+  -moz-background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.lastUnit {
+  overflow: hidden;
+  -moz-background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+  float: left;
+  float: none;
+  width: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.line { zoom: 1; }
 
 .size8of8{width:100%}
 .size7of8{width:87.5%}
