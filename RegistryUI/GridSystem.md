@@ -2,7 +2,7 @@ The grid system is composed of 8 flexible columns with a gutter between columns 
 
 ##Grid Sizes
 <div class="line lastUnit"> 
-  ####Size 1 of 1
+  <h4>Size 1 of 1</h4>
 
   <div class="docs size1of1">
     <p>1 of 1</p>
@@ -10,7 +10,7 @@ The grid system is composed of 8 flexible columns with a gutter between columns 
 </div>
 
 <div class="line lastUnit"> 
-  ####Size 1 of 2
+  <h4>Size 1 of 2</h4>
   <div class="unit size1of2 maintain-width"> 
     <p>1 / 2</p> 
   </div>
