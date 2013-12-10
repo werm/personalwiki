@@ -1,1 +1,1 @@
-[[_TOC_]]
+[[Registry Pipeline]]
