@@ -11,10 +11,10 @@ The grid system is composed of 8 flexible columns with a gutter between columns 
 
 <div class="line lastUnit"> 
   <h4>Size 1 of 2</h4>
-  <div class="unit size1of2 maintain-width"> 
+  <div class="unit docs size1of2 maintain-width"> 
     <p>1 / 2</p> 
   </div>
-  <div class="lastUnit size1of2"> 
+  <div class="lastUnit docs size1of2"> 
     <p>1 / 2</p> 
   </div>
 </div>
