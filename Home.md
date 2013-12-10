@@ -1,1 +1,1 @@
-[[RegistryUI]]
+[[RegistryUI|Registry Pipeline UI Guidelines]]
