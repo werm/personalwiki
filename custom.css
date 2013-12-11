@@ -15,16 +15,6 @@
   text-align: center;
 }
 
-.unit {
-  overflow: hidden;
-  -moz-background-clip: padding-box !important;
-  -webkit-background-clip: padding-box !important;
-  background-clip: padding-box !important;
-  float: left;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
 .lastUnit {
   overflow: hidden;
   -moz-background-clip: padding-box !important;
@@ -33,6 +23,16 @@
   float: left;
   float: none;
   width: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.unit {
+  overflow: hidden;
+  -moz-background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+  float: left;
   padding-left: 15px;
   padding-right: 15px;
 }
