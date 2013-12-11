@@ -1,1 +1,1 @@
-#Wiki 'n Stuff'
+[[_TOC_]]
