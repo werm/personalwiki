@@ -15,18 +15,6 @@
   text-align: center;
 }
 
-.lastUnit {
-  overflow: hidden;
-  -moz-background-clip: padding-box !important;
-  -webkit-background-clip: padding-box !important;
-  background-clip: padding-box !important;
-  float: left;
-  float: none;
-  width: auto;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
 .unit {
   overflow: hidden;
   -moz-background-clip: padding-box !important;
@@ -37,7 +25,15 @@
   padding-right: 15px;
 }
 
-.line { zoom: 1; }
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.row:before, .row:after {
+  display: table;
+  content: " ";
+}
 
 .size8of8{width:100%}
 .size7of8{width:87.5%}
